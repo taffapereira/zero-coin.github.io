@@ -1,0 +1,8 @@
+zero-coin.github.io/
+├── index.html          # Landing page
+├── styles.css          # Estilos principais
+├── script.js           # Interações/animações
+├── assets/
+│   ├── images/         # Ícones/logo
+│   └── fonts/          # Fontes customizadas
+└── README.md
